@@ -1,0 +1,12 @@
+html, body {  
+    margin:0px;  
+    height:100%;  
+  } 
+
+.bg-header{
+    background-image: url('../img/carousel1.jpg');
+    background-repeat: none;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+}
