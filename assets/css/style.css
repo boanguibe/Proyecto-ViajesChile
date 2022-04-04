@@ -13,6 +13,10 @@ html, body {
     background-size: cover;
     height: 100%;
 }
+#navegacion a {
+  color: white;
+  text-decoration: none;
+}
 
 
 /*Seccion footer*/
